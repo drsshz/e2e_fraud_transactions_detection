@@ -8,7 +8,11 @@ Welcome to the Fraud Detection Project! This project demonstrates a data pipelin
 
 Below is the high-level architecture of the pipeline:
 
-![System Architecture](./system_architecture.jpg)
+![System Architecture](./docs/system_architecture.jpg)
+
+This is how the final DAGs look like in airflow:
+
+![DAG Diagram](./docs/airflow_dags.jpg)
 
 The pipeline consists of the following stages:
 
