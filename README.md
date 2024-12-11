@@ -10,9 +10,10 @@ Below is the high-level architecture of the pipeline:
 
 ![System Architecture](./docs/system_architecture.jpg)
 
-This is how the final DAGs look like in airflow:
+This is how the final DAGs in airflow and the connections in airbyte look like:
 
 ![DAG Diagram](./docs/airflow_dags.jpg)
+![Airbyte UI](./docs/airbyte_ui.jpg)
 
 The pipeline consists of the following stages:
 
